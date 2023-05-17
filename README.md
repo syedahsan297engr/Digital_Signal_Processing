@@ -3,3 +3,4 @@
  
  * In Lab 1 we will cover basic operations on discrete signals, shifting scaling reversal etc.
  * Lab 2: Focus on Convolution
+ * Lab 3: Transfer functions, Z transform, impulse response, frequency response etc.
