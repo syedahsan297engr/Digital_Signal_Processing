@@ -5,3 +5,4 @@
  * Lab 2: Focus on Convolution
  * Lab 3: Transfer functions, Z transform, impulse response, frequency response etc.
  * Lab 4: Discrete time Fourier Analysis.
+ * Lab 5: Discrete Fourier Transform
