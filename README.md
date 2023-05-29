@@ -7,4 +7,5 @@
  * Lab 4: Discrete time Fourier Analysis.
  * Lab 5: Discrete Fourier Transform
  * Lab 6: Filter Structure Designing e.g. Cascaded, Parallel, Direct Form-I , Form-II.
- * Lab 7: IIR Filter Design, ButterWorth and Chebyshev
+ * Lab 7: IIR Filter Design, ButterWorth
+ * Lab 8: IIR Filter Design, Chebyshev
